@@ -1,0 +1,10 @@
+{
+  "@@locale": "pt",
+  "screenTitle": "Contador de Pontos",
+  "firstTeam": "Equipe A",
+  "secondTeam": "Equipe B",
+  "singlePoint": "Um Ponto",
+  "doublePoints": "Dois Pontos",
+  "triplePoints": "Três Pontos",
+  "revert": "Desfazer Pontuação"
+}

@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "screenTitle": "Score Tracker",
+  "firstTeam": "Team One",
+  "secondTeam": "Team Two",
+  "singlePoint": "One Point",
+  "doublePoints": "Two Points",
+  "triplePoints": "Three Points",
+  "revert": "Undo Score"
+}
